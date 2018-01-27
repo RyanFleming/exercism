@@ -1,3 +1,9 @@
+/*
+ * Solution by Ryan Fleming
+ * 1/27/18
+ * All Rights Reserved
+ */
+
 class SpaceAge {
 
   private final double SECONDS;

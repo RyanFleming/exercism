@@ -1,3 +1,9 @@
+/*
+ * Solution by Ryan Fleming
+ * 1/27/18
+ * All Rights Reserved
+ */
+
 public class PangramChecker {
 
   public boolean isPangram(String input) {

@@ -1,3 +1,9 @@
+/*
+ * Solution by Ryan Fleming
+ * 1/27/18
+ * All Rights Reserved
+ */
+
 class Scrabble {
 
   private final String WORD;

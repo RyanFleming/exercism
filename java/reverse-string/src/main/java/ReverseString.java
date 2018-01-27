@@ -1,3 +1,9 @@
+/*
+ * Solution by Ryan Fleming
+ * 1/27/18
+ * All Rights Reserved
+ */
+
 class ReverseString {
 
   String reverse(String inputString) {
