@@ -35,22 +35,6 @@ The Hamming distance is only defined for sequences of equal length. This means
 that based on the definition, each language could deal with getting sequences
 of equal length differently.
 
-# Java Tips
-
-## Hints
-
-This is the first exercise with tests that require you to throw an
-[`Exception`](https://docs.oracle.com/javase/8/docs/api/java/lang/Exception.html). `Exception`s are typically thrown to
-indicate that a program has encountered an unexpected input or state.
-
-We use JUnit's [`ExpectedException`](http://junit.org/junit4/javadoc/4.12/org/junit/rules/ExpectedException.html)
-[rule](https://github.com/junit-team/junit4/wiki/rules) throughout the track to verify that the exceptions you throw
-are:
-
-1. instances of a specified Java type;
-2. (optionally) initialized with a specified message.
-
-
 # Running the tests
 
 You can run all the tests for an exercise by entering
@@ -65,6 +49,3 @@ in your terminal.
 
 The Calculating Point Mutations problem at Rosalind [http://rosalind.info/problems/hamm/](http://rosalind.info/problems/hamm/)
 
-## Submitting Incomplete Solutions
-
-It's possible to submit an incomplete solution so you can see how others have completed the exercise.

@@ -14,14 +14,6 @@ The objectives are simple:
 
 If everything goes well, you will be ready to fetch your first real exercise.
 
-# Java Tips
-
-Since this is your first Java exercise, we've included a detailed TUTORIAL.md
-file that guides you through your solution. Check it out for tips and
-assistance!
-
-
-
 # Running the tests
 
 You can run all the tests for an exercise by entering
@@ -36,6 +28,4 @@ in your terminal.
 
 This is an exercise to introduce users to using Exercism [http://en.wikipedia.org/wiki/%22Hello,_world!%22_program](http://en.wikipedia.org/wiki/%22Hello,_world!%22_program)
 
-## Submitting Incomplete Solutions
 
-It's possible to submit an incomplete solution so you can see how others have completed the exercise.
